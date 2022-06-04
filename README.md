@@ -1,1 +1,1 @@
-# All components powering the stocks picker widget will reside inside this organization.
+# This repo was created to set profile readme for the organization
